@@ -1,0 +1,78 @@
+
+/*Navigation*/
+
+
+/*body*/
+
+body {
+    background-color:#F1E9DF;
+}
+
+img {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+    
+}
+
+.jumbotron {
+    h1{
+        text-align: center;
+        border: 2px solid black; 
+
+    }
+}
+
+.research {
+    h1{
+        text-align:center; 
+        border: 2px solid black; 
+    }
+    p2{
+        text-align:center;
+    }
+    img{
+        width:50%; 
+    }
+    p3{
+        text-align:center;
+    }
+}
+
+.definition {
+    h1{
+        text-align: center;
+        border: 2px solid black; 
+
+    }
+}
+
+.Ideation {
+    h1{
+        text-align: center;
+        border: 2px solid black; }
+img {
+    height: 50%;
+    width: 50%;
+}
+    
+}
+
+.prototyping{
+    h1{
+        text-align: center;
+        border: 2px solid black; }
+}
+
+.finalproduct{
+    h1{
+        text-align: center;
+        border: 2px solid black; }
+}
+
+.Conclusion{
+    h1{
+        text-align: center;
+        border: 2px solid black; }
+}
